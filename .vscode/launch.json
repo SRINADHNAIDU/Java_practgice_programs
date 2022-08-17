@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch EvenNumber",
+            "request": "launch",
+            "mainClass": "EvenNumber",
+            "projectName": "java_1_8871f364"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tarak_1",
+            "request": "launch",
+            "mainClass": "Tarak_1",
+            "projectName": "java_1_8871f364"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number",
+            "request": "launch",
+            "mainClass": "Number",
+            "projectName": "java_1_8871f364"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greatest",
+            "request": "launch",
+            "mainClass": "Greatest",
+            "projectName": "java_1_8871f364"
+        },
+        {
+            "type": "java",
+            "name": "Launch Divisible",
+            "request": "launch",
+            "mainClass": "Divisible",
+            "projectName": "java_1_8871f364"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "java_1_8871f364"
+        },
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
